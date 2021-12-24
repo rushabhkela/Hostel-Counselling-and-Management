@@ -1,0 +1,11 @@
+Meta Data
+1. Roll Number (Integer)
+2. Name (String)
+3. CGPA (Double)
+4. Branch (Integer - Encoded Factors such as 1 for CSE, 2 for ECE, 3 for Mechanical etc.)
+5. Slot (Integer - Encoded such as 1 for Morning, 2 for Evening) 
+
+File Format :
+RollNo Name CGPA Branch Slot
+
+See the StuDetails.txt file for a sample!
